@@ -392,6 +392,7 @@ h2 {
     font-size: 17px;
     resize: vertical;
     transition: all 0.1s ease-in-out;
+    color: white;
 }
 
 
